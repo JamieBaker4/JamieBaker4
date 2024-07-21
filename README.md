@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, my name is Jamie Baker!
+### Welcome,
+I am an undergraduate student at Stonehill College. I am currently doing research on behavioral ecology of Trinidaian guppies, observing how visual cues influence antipredator behavior. I am a senior looking to pursue a Phd in molecular biology, with a focus in translational research. After recieving my graduates degree I would like to work as a post doctorate in a lab at a university where I could teach and continue research. 
+My portfolio repository includes a example of a function tutorial from that packages flashr and supportR presented to undergraduate students at Stonehill College and an expample of my work while learning to code in R, making graphs using ggplot2. 
 
 <!--
 **JamieBaker4/JamieBaker4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
